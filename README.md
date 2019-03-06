@@ -1,2 +1,2 @@
-# feup-iope
+# FEUP IOPE
 Operation Research for Operation Research
