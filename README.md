@@ -1,5 +1,5 @@
 # FEUP IOPE
-Operation Research for Operations Research
+Operation Research for Operations Research using [ortools](https://developers.google.com/optimization) and a paper scanner. 
 
 * [Test 1 2019/2020](https://github.com/msramalho/feup-iope/blob/master/minitest1.pdf)
 * [Test 2 2019/2020](https://github.com/msramalho/feup-iope/blob/master/minitest2.pdf)
